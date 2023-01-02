@@ -1,0 +1,26 @@
+h1{
+    background-color: rgb(54, 54, 54);
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 20px;
+}
+h2{
+    background-color: rgb(54, 54, 54);
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 20px;
+}
+.botao{
+    text-align: center;
+}
+#btn{
+    height: 2.5rem;
+    background-color: aliceblue;
+    color: rgb(54, 54, 54);
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    border: 0;
+    border-radius: 25px;
+}
